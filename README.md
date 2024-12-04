@@ -10,7 +10,7 @@ This tutorial outlines the post-install configuration of the open-source help de
 
 <h2>Video Demonstration</h2>
 
-- ### [YouTube: How To Configure osTicket, post-installation](https://www.youtube.com)
+- ### [Post Installation Configure osTicket](https://www.loom.com/share/68fe3690530a4d6a8fc80ca563d938ff)
 
 <h2>Environments and Technologies Used</h2>
 
