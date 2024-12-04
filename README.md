@@ -33,32 +33,25 @@ This tutorial outlines the post-install configuration of the open-source help de
 <li>Develop Custom Help Topics and Forms
 -Set up help topics and custom forms to guide users in ticket submissions, providing structured input for better issue categorization and troubleshooting.</li> 
 </ol>
- 
-
-
 
 <h2>Configuration Steps</h2>
-
+<p> For this guide,osTicket needs to have an established connection  using HeidiSQL. This is a continuation of the previous installation guide.<p/>
 <p>
-<img src="https://i.imgur.com/DJmEXEB.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
-</p>
-<p>
-Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur.
+![Screenshot 2024-12-04 at 3 49 00 PM](https://github.com/user-attachments/assets/d7185279-7dee-47e6-8185-035da3f30fef)
 </p>
 <br />
+![Screenshot 2024-12-04 at 4 02 18 PM](https://github.com/user-attachments/assets/517c0bc6-be76-4dcf-b6da-4d7a6dc7213a)
+<br/> 
+<p> we created a username and password at the end of the tutorial  when we installed HeidiSQL. Now is the time to input that username and password to create the connection.</p>
+![Screenshot 2024-12-04 at 4 04 35 PM](https://github.com/user-attachments/assets/4fb87963-eefb-475e-88d3-b1bfcf9eac0a)
+![Screenshot 2024-12-04 at 4 05 06 PM](https://github.com/user-attachments/assets/1bf39028-8ece-41c5-a14f-3b58334b2d57)
+![Screenshot 2024-12-04 at 4 05 30 PM](https://github.com/user-attachments/assets/1a3076e9-c2f2-4495-a138-e2faf1240a3d)
+![Screenshot 2024-12-04 at 4 06 08 PM](https://github.com/user-attachments/assets/563d33ca-4dfa-4f3f-8adb-378eaa4b4d99)
+![Screenshot 2024-12-04 at 4 06 34 PM](https://github.com/user-attachments/assets/c6670ebc-8ca7-45aa-83a4-e72632a7a50f)
 
-<p>
-<img src="https://i.imgur.com/DJmEXEB.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
-</p>
-<p>
-Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur.
-</p>
-<br />
 
-<p>
-<img src="https://i.imgur.com/DJmEXEB.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
-</p>
-<p>
-Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur.
-</p>
-<br />
+
+
+
+
+
